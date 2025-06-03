@@ -1,0 +1,188 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)",
+      "brand": "Apple",
+      "category": "Smartphone",
+      "description": "Powerful smartphone with A16 Bionic chip and 48MP camera.",
+      "price": 900,
+      "img": "images/products/Iphone 14 pro 1.png",
+      "rating": 4.8,
+
+      "reviews": [
+        {
+          "user": "Ali Mostafa",
+          "avatar": "https://i.pravatar.cc/100?img=12",
+          "comment": "Amazing phone! Camera and speed are top notch."
+        },
+        {
+          "user": "Mona Adel",
+          "avatar": "https://i.pravatar.cc/100?img=22",
+          "comment": "Battery life is very impressive. Worth the price."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Blackmagic Pocket Cinema Camera 6k",
+      "brand": "Samsung",
+      "category": "Camera",
+      "description": "Flagship phone with top display and camera performance.",
+      "price": 2535,
+      "old_price": 1399,
+      "img": "images/products/Iphone 14 pro 1-1.png",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "user": "Youssef Amr",
+          "avatar": "https://i.pravatar.cc/100?img=45",
+          "comment": "Best Android phone I’ve used so far."
+        },
+        {
+          "user": "Nada Khaled",
+          "avatar": "https://i.pravatar.cc/100?img=38",
+          "comment": "The camera zoom is crazy. Highly recommend."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch Series 9 GPS 41mm Starlight Aluminium Case",
+      "brand": "Apple",
+      "category": "SmartWatch",
+      "description": "Budget phone with great performance and battery life.",
+      "price": 900,
+      "old_price": 299,
+      "img": "images/products/Iphone 14 pro 1-2.png",
+      "rating": 4.2,
+      "reviews": [
+        {
+          "user": "Karim Fathy",
+          "avatar": "https://i.pravatar.cc/100?img=20",
+          "comment": "Value for money. Fast and reliable."
+        },
+        {
+          "user": "Hager Nabil",
+          "avatar": "https://i.pravatar.cc/100?img=30",
+          "comment": "Good for daily use. Camera is decent."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "AirPods Max Silver",
+      "brand": "Sony",
+      "category": "Headphone",
+      "description": "Industry-leading noise cancelling headphones.",
+      "price": 900,
+      "old_price": 499,
+      "img": "images/products/Iphone 14 pro 1-3.png",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "user": "Omar Elshazly",
+          "avatar": "https://i.pravatar.cc/100?img=55",
+          "comment": "The noise cancellation is unbelievable!"
+        },
+        {
+          "user": "Sarah Mahmoud",
+          "avatar": "https://i.pravatar.cc/100?img=62",
+          "comment": "Crystal clear sound and super comfortable."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy Watch6 Classic 47mm Black",
+      "brand": "Sony",
+      "category": "SmartWatch",
+      "description": "Samsung Galaxy Watch6 Classic 47mm Black.",
+      "price": 368,
+      "old_price": 499,
+      "img": "images/products/Iphone 14 pro 1-4.png",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "user": "Omar Elshazly",
+          "avatar": "https://i.pravatar.cc/100?img=55",
+          "comment": "The noise cancellation is unbelievable!"
+        },
+        {
+          "user": "Sarah Mahmoud",
+          "avatar": "https://i.pravatar.cc/100?img=62",
+          "comment": "Crystal clear sound and super comfortable."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Galaxy Z Fold5 Unlocked | 256GB | Phantom Black",
+      "brand": "Sony",
+      "category": "Headphone",
+      "description": "Industry-leading noise cancelling headphones.",
+      "price": 1799,
+      "old_price": 499,
+      "img": "images/products/Iphone 14 pro 1-5.png",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "user": "Omar Elshazly",
+          "avatar": "https://i.pravatar.cc/100?img=55",
+          "comment": "The noise cancellation is unbelievable!"
+        },
+        {
+          "user": "Sarah Mahmoud",
+          "avatar": "https://i.pravatar.cc/100?img=62",
+          "comment": "Crystal clear sound and super comfortable."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Galaxy Buds FE Graphite",
+      "brand": "Sony",
+      "category": "Headphone",
+      "description": "Industry-leading noise cancelling headphones.",
+      "price": 99.99,
+      "old_price": 499,
+      "img": "images/products/Iphone 14 pro 1-6.png",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "user": "Omar Elshazly",
+          "avatar": "https://i.pravatar.cc/100?img=55",
+          "comment": "The noise cancellation is unbelievable!"
+        },
+        {
+          "user": "Sarah Mahmoud",
+          "avatar": "https://i.pravatar.cc/100?img=62",
+          "comment": "Crystal clear sound and super comfortable."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Apple iPad 9 10.2\" 64GB Wi-Fi Silver (MK2L3) 2021",
+      "brand": "Sony",
+      "category": "Headphone",
+      "description": "Industry-leading noise cancelling headphones.",
+      "price": 398,
+      "old_price": 499,
+      "img": "images/products/Iphone 14 pro 1-7.png",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "user": "Omar Elshazly",
+          "avatar": "https://i.pravatar.cc/100?img=55",
+          "comment": "The noise cancellation is unbelievable!"
+        },
+        {
+          "user": "Sarah Mahmoud",
+          "avatar": "https://i.pravatar.cc/100?img=62",
+          "comment": "Crystal clear sound and super comfortable."
+        }
+      ]
+    }
+  ]
+}
