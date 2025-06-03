@@ -4,7 +4,7 @@ function addItemsToGridProducts()
     let gridProducts = document.querySelector(".products-page .grid-products");
 
     gridProducts.innerHTML = "";
-    fetch("../jsonFile/products.json")
+    fetch('jsonFile/products.json')
     .then((respons) => respons.json())
     .then((data)=>
     {
